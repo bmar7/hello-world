@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Hello! I'm a self-taught student interested in learning computer science!
